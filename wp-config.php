@@ -17,13 +17,13 @@
 
 // ** MySQL beállítások - Ezeket a szolgálatótól lehet beszerezni ** //
 /** Adatbázis neve */
-define('DB_NAME', 'adatbázis_neve');
+define('DB_NAME', 'slettnesk');
 
 /** MySQL felhasználónév */
-define('DB_USER', 'felhasználónév');
+define('DB_USER', 'slettnesk');
 
 /** MySQL jelszó. */
-define('DB_PASSWORD', 'jelszó');
+define('DB_PASSWORD', 'iDiooda77');
 
 /** MySQL  kiszolgáló neve */
 define('DB_HOST', 'localhost');
@@ -60,7 +60,7 @@ define('NONCE_SALT',       'írjunk ide valami nagyon bonyolultat');
  * Több blogot is telepíthetünk egy adatbázisba, ha valamennyinek egyedi
  * előtagot adunk. Csak számokat, betűket és alulvonásokat adhatunk meg.
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'wp_sltnsk';
 
 /**
  * Fejlesztőknek: WordPress hibakereső mód.
